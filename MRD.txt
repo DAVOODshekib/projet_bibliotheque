@@ -1,0 +1,12 @@
+Abonne(matricule, nom, adresse, id, telephone, date_adhetion,
+date-naissance )
+Exemplaise(id-catalogue, code rayon, date_acquistion, editeur, auteur)
+mots_clé(id, titre, thém, auteur, genre, code)
+auteur(id, laungue, prénome , sex)
+editeur(id-editeur, nom, prénom)
+rayon(id-rayon, par_thém, mots_clé, titre)
+L’etat d’usure(code d’usure, n°_matricule
+live(id_catalogue, titre,auteur, éditeur, cod_rayon
+genre(bonde_desinée, scienc_ficton, policier
+
+
